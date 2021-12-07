@@ -14,6 +14,11 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [Vendors](#Vendors)
  - [Prebuilts](#Prebuilts)
  - [Lube](#Lube-)
+ - [Customs](#Customs)
+ - [Optical/Mechanical Switches](#Lube-)
+ - [Springs](#Springs)
+ - [Typing Websites](#Typing-Websites)
+ - [Undervalue](#Undervalue)
 
 
 
@@ -73,10 +78,47 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - Keyboard Grease: [https://petrelplus.com/-KEYBOARD-GREASES?search=keyboard%20grease](https://petrelplus.com/-KEYBOARD-GREASES?search=keyboard%20grease "https://petrelplus.com/-KEYBOARD-GREASES?search=keyboard%20grease") 
  - Silicone oil :- [https://amzn.to/36O3ZrU](https://amzn.to/36O3ZrU "https://amzn.to/36O3ZrU") ( If you want to thin down the lube or want some lube for the springs)
 
- ```lubing part 
-* Tactile switches :- For a tactile switch your going to want a lubricant that is a lower viscosity. So mix the keyboard grease and the silicone oil in 80/20 weighted quantities, we do so such that we don't loose any tactility on the switch ( also we do not lube the legs on the stem as it diminish the tactility) 
-* Linear switches :- Just use the keyboard lube as is but do a light coat for the same, overlubing can cause the switch to feel sluggish and make it unusable ( needs to be cleaned either with a cloth or a ultrasonic cleaner )
-* Springs :- So for the springs just use the oil mentioned and use the bag lube method , but if you think bag lubing is inconsistent you can lube each spring using a brush ( consumes time though) 
-* Stabs :- For the stabs just use the keyboard lube as it is, It's thick enough to stay on the stabs and does not separate or drip down ( use a lighter coat of lube for the stab stem and thicker one for the stab wire.```
+ >lubing part 
+>* Tactile switches :- For a tactile switch your going to want a lubricant that is a lower viscosity. So mix the keyboard grease and the silicone oil in 80/20 weighted quantities, we do so such that we don't loose any tactility on the switch ( also we do not lube the legs on the stem as it diminish the tactility) 
+>* Linear switches :- Just use the keyboard lube as is but do a light coat for the same, overlubing can cause the switch to feel sluggish and make it unusable ( needs to be cleaned either with a cloth or a ultrasonic cleaner )
+>* Springs :- So for the springs just use the oil mentioned and use the bag lube method , but if you think bag lubing is inconsistent you can lube each spring using a brush ( consumes time though) 
+>* Stabs :- For the stabs just use the keyboard lube as it is, It's thick enough to stay on the stabs and does not separate or drip down ( use a lighter coat of lube for the stab stem and thicker one for the stab wire.
 
-**And Coconut oil, WD-40, Vaseline cannot be used as lube, If you want to try out any other grease don't do the same without reading the datasheet ,lot of these greases are corrosive and not dielectric in nature, which can either spoil the switches or the short the PCB hence causing permanent damage**
+# Customs
+We are NOT the authority on customs, refer to official sources Customs Act, and associated orders, CBIC and PIB notifications etc. However some nuances are listed below here for your reference
+
+```
+Customs are uncertain. Neither the instance nor or the rate is certain. 
+
+If your last mile is India Post, there is a chance it might escape customs.
+
+If you are using any express service, there is near certainty that you'll get hit by customs.
+
+The rate also varies, and largely depends on the discretion of the officer. It could be anywhere between 0% to even 200% in some cases. Average expected rate is between 42% to 77%, that is if you get hit. 
+```
+
+Read on for legal mumbo-jumbo. As per circular No. 4/2020 date 21/01/2020, Section 4.1(a), IF your import is classified under "personal" import under code 9804, you would be charged roughly 77% (+ fee to your courier if any, DHL express and Fedex express charge around 550/- ) However the officer might not classify it under "personal" imports and with application of mind, might actually classify it under another header: which might result in a different rate of customs. Depending on your comprehension of the above section, there are 2 applicable rates: 42% and 77%, 42% when it is classified as "personal use other than gifts" and 77% when it is classified as "gift" as seen here: [https://bangalorecustoms.gov.in/pad_cont_new2.php](https://bangalorecustoms.gov.in/pad_cont_new2.php "https://bangalorecustoms.gov.in/pad_cont_new2.php") TL;DR rates are variable, best budget for it on the safe side, but you may take your chances!
+
+# Optical/Mechanical Switches
+**Optical Switches**: Optical keyboards emit light below the surface of the keys. When you press a key on an optical keyboard, the light below the respective key will become obstructed. The optical keyboard will then detect this blockage as a keystroke. Optical switches are only compatible with PCB's that support them. Optical switches are smooth out of the box but investing in a keyboard having optical switches means you can only change them with other optical switches ( so very few switch choices to choose from ) 
+https://imgur.com/a/BX0tDkT
+**Mechanical Switches**: mechanical keyboard, each switch consists of a housing unit, a stem and a spring. When you press a key, the electrical contact underneath the key will push into a separate electrical contact below it, thereby completing the circuit. Releasing the key, on the other hand, causes it to spring back up, thereby breaking the circuit. 
+https://imgur.com/a/BX0tDkT
+
+# Springs
+Note: progressive springs are debatable with actual measurements showing an almost linear increase
+![Springs](https://media.discordapp.net/attachments/716140277911519232/737226811301298176/Screenshot_2020-07-27_at_2.05.41_PM.png)
+# Typing Websites
+
+ - https://10fastfingers.com/
+ - https://typings.gg/
+ - https://monkey-type.com/
+ - https://www.typingclub.com/
+ - https://typing.works/
+ - https://www.colemak.academy/ -> Colemak practice 
+ - https://www.typelit.io/
+ - https://www.keybr.com/ 
+ - https://zty.pe/
+
+# Undervalue
+**Customs duties are calculated as a percentage of total value (goods value + shipping + insurance). Intentionally declaring an incorrect value (i.e. declaring a lower value) to pay less import taxes (customs) is a form of tax evasion, which is a crime and you can be penalized and jailed for doing the same. Also in case your package is lost / damaged / tampered, you will only get refund as per declared value and you might lose significant money and get nothing. We in no way encourage or endorse undervaluing, you will be solely responsible for the consequences / discussions.**
