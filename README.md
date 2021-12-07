@@ -102,6 +102,7 @@ Read on for legal mumbo-jumbo. As per circular No. 4/2020 date 21/01/2020, Secti
 # Optical/Mechanical Switches
 **Optical Switches**: Optical keyboards emit light below the surface of the keys. When you press a key on an optical keyboard, the light below the respective key will become obstructed. The optical keyboard will then detect this blockage as a keystroke. Optical switches are only compatible with PCB's that support them. Optical switches are smooth out of the box but investing in a keyboard having optical switches means you can only change them with other optical switches ( so very few switch choices to choose from ) 
 https://imgur.com/a/BX0tDkT
+<br />
 **Mechanical Switches**: mechanical keyboard, each switch consists of a housing unit, a stem and a spring. When you press a key, the electrical contact underneath the key will push into a separate electrical contact below it, thereby completing the circuit. Releasing the key, on the other hand, causes it to spring back up, thereby breaking the circuit. 
 https://imgur.com/a/BX0tDkT
 
