@@ -5,7 +5,7 @@ Join here -> [IMKC DISCORD](http://discord.gg/imkc)
 
 Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3nyicLXY6VSfp8)
 
-___
+---
 
 <code><b>\*</b></code>  All Lists are in Alphabetical Order ... I think
 
@@ -14,6 +14,8 @@ ___
  - [Vendors](#Vendors)
  - [Prebuilts](#Prebuilts)
  - [Lube](#Lube-)
+
+
 
 # Vendors
 
