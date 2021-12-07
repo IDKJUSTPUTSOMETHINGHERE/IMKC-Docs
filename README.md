@@ -15,7 +15,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [Prebuilts](#Prebuilts)
  - [Lube](#Lube-)
  - [Customs](#Customs)
- - [Optical/Mechanical Switches](#Lube-)
+ - [Optical/Mechanical Switches](#opticalmechanical-switches)
  - [Springs](#Springs)
  - [Typing Websites](#Typing-Websites)
  - [Undervalue](#Undervalue)
