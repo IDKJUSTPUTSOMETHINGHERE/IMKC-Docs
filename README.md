@@ -112,7 +112,7 @@ Note: progressive springs are debatable with actual measurements showing an almo
 
  - https://10fastfingers.com/
  - https://typings.gg/
- - https://monkey-type.com/
+ - https://monkeytype.com/
  - https://www.typingclub.com/
  - https://typing.works/
  - https://www.colemak.academy/ -> Colemak practice 
