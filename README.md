@@ -8,6 +8,9 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 ___
 
 <code><b>\*</b></code>  All Lists are in Alphabetical Order ... I think
+
+[Chapter 2](#Vendors)
+
 # Vendors
 
 **Pre-builts and Parts**
