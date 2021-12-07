@@ -9,7 +9,11 @@ ___
 
 <code><b>\*</b></code>  All Lists are in Alphabetical Order ... I think
 
-[Chapter 2](#Vendors)
+## Links
+
+ - [Vendors](#Vendors)
+ - [Prebuilts](#Prebuilts)
+ - [Lube](#Lube)
 
 # Vendors
 
