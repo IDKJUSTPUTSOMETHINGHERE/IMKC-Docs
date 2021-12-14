@@ -20,6 +20,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [Typing Websites](#Typing-Websites)
  - [Undervalue](#Undervalue)
 
+[Items Alternative List](https://docs.google.com/spreadsheets/d/1RI8GurMT3wMbcUj518QvZlTEoLv9HTcaVe4SdPw86_M/edit?usp=sharing)
 
 
 # Vendors
