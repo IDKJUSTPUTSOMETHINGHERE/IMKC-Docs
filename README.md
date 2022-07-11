@@ -95,7 +95,8 @@ If your last mile is India Post, there is a chance it might escape customs.
 
 If you are using any express service, there is near certainty that you'll get hit by customs.
 
-The rate also varies, and largely depends on the discretion of the officer. It could be anywhere between 0% to even 200% in some cases. Average expected rate is between 42% to 77%, that is if you get hit. 
+In our experience we have seen 42% being charged as customs - but on occasions, it has gone up to 77% (so it's best to account and prepare for both).
+This stands true for most courier companies - but sometimes you are lucky and may be able to avoid it altogether.
 ```
 
 Read on for legal mumbo-jumbo. As per circular No. 4/2020 date 21/01/2020, Section 4.1(a), IF your import is classified under "personal" import under code 9804, you would be charged roughly 77% (+ fee to your courier if any, DHL express and Fedex express charge around 550/- ) However the officer might not classify it under "personal" imports and with application of mind, might actually classify it under another header: which might result in a different rate of customs. Depending on your comprehension of the above section, there are 2 applicable rates: 42% and 77%, 42% when it is classified as "personal use other than gifts" and 77% when it is classified as "gift" as seen here: [https://bangalorecustoms.gov.in/pad_cont_new2.php](https://bangalorecustoms.gov.in/pad_cont_new2.php "https://bangalorecustoms.gov.in/pad_cont_new2.php") TL;DR rates are variable, best budget for it on the safe side, but you may take your chances!
