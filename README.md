@@ -7,7 +7,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 
 ---
 
-<code><b>\*</b></code>  All Lists are in Alphabetical Order ... I think
+<code><b>\*  All Lists are in Alphabetical Order ... I think</b></code>
 
 ## Links
 
