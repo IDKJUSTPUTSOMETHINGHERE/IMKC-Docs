@@ -33,7 +33,8 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")  
  - [https://www.meckeys.com/](https://www.meckeys.com/ "https://www.meckeys.com/")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
- - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/") 
+ - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
+ - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/") 
 
 **Custom Parts**
 
@@ -45,6 +46,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 
  - [https://www.kablemakers.com/usb-cables](https://www.kablemakers.com/usb-cables "https://www.kablemakers.com/usb-cables")  
  - [https://instagram.com/kushcables](https://instagram.com/kushcables "https://instagram.com/kushcables")
+ - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/")
 
 # Prebuilts
 
