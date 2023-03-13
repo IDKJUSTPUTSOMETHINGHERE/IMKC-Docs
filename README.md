@@ -32,6 +32,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://keychron.in/](https://keychron.in/ "https://keychron.in/") 
  - [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")  
  - [https://www.meckeys.com/](https://www.meckeys.com/ "https://www.meckeys.com/")
+ - [https://www.neomacro.in/](https://www.neomacro.in "https://www.neomacro.in")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
  - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/") 
 
