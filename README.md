@@ -34,7 +34,10 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://www.meckeys.com/](https://www.meckeys.com/ "https://www.meckeys.com/")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
  - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/") 
-
+ - [https://hardwarecorpus.in/](https://hardwarecorpus.in/ "https://hardwarecorpus.in/") 
+ - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/") 
+ - [https://neomacro.in/](https://neomacro.in/ "https://neomacro.in/") 
+ 
 **Custom Parts**
 
  - [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")  
@@ -66,7 +69,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - Redgear Shadow Blade (Blue switches) [https://amzn.to/3DENjm8](https://amzn.to/3DENjm8 "https://amzn.to/3DENjm8") 
  - Cosmic-Byte-CB-GK-16 (Outemu blue) [https://amzn.to/3t6ssDK](https://amzn.to/3t6ssDK "https://amzn.to/3t6ssDK")
 
-# Lube 😳
+# Lube ðŸ˜³
 
 **If you are looking for Krytox or some other lubes/oils go to** 
 
