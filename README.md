@@ -33,16 +33,13 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")  
  - [https://www.meckeys.com/](https://www.meckeys.com/ "https://www.meckeys.com/")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
- - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/") 
+ - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
+ - [https://rectangles.store/](https://rectangles.store/ "https://rectangles.store/")  
  - [https://hardwarecorpus.in/](https://hardwarecorpus.in/ "https://hardwarecorpus.in/") 
  - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/") 
- - [https://neomacro.in/](https://neomacro.in/ "https://neomacro.in/") 
- 
-**Custom Parts**
-
- - [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")  
- - [https://rectangles.store/](https://rectangles.store/ "https://rectangles.store/")  
- - [https://sphinxpc.in/product-category/peripherals/keyboard/](https://sphinxpc.in/product-category/peripherals/keyboard/ "https://sphinxpc.in/product-category/peripherals/keyboard/")
+ - [https://neomacro.in/](https://neomacro.in/ "https://neomacro.in/")
+ - [https://artwaal.com/](https://artwaal.com/ "https://artwaal.com/")
+ - [https://cablesutra.shop/](https://cablesutra.shop/ "https://cablesutra.shop/")
 
 **For Cables**
 
