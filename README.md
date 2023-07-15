@@ -27,11 +27,10 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 
 **Pre-builts and Parts**
 
- - [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
- - [https://crx.gg/](https://crx.gg/ "https://crx.gg/") 
  - [https://keychron.in/](https://keychron.in/ "https://keychron.in/") 
  - [https://www.genesispc.in/](https://www.genesispc.in/ "https://www.genesispc.in/")  
  - [https://www.meckeys.com/](https://www.meckeys.com/ "https://www.meckeys.com/")
+ - [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
  - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
  - [https://rectangles.store/](https://rectangles.store/ "https://rectangles.store/")  
