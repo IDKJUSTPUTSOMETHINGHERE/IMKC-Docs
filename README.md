@@ -33,7 +33,6 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
  - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
- - [https://rectangles.store/](https://rectangles.store/ "https://rectangles.store/")  
  - [https://hardwarecorpus.in/](https://hardwarecorpus.in/ "https://hardwarecorpus.in/") 
  - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/") 
  - [https://neomacro.in/](https://neomacro.in/ "https://neomacro.in/")
@@ -69,7 +68,6 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 
 **If you are looking for Krytox or some other lubes/oils go to** 
 
- - [https://rectangles.store/collections/lube](https://rectangles.store/collections/lube "https://rectangles.store/collections/lube")
  - [https://stackskb.com/product-category/accessories/lubricants/](https://stackskb.com/product-category/accessories/lubricants/ "https://stackskb.com/product-category/accessories/lubricants/")  
 
 
