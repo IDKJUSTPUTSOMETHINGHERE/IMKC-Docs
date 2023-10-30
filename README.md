@@ -46,7 +46,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 
 # Prebuilts
 
- - [https://www.genesispc.in/product-category/keyboard/](https://www.genesispc.in/product-category/keyboard/ "https://www.genesispc.in/product-category/keyboard/") Has a list of good prebuilt keebs 
+ - [https://www.genesispc.in/category/keyboard/](https://www.genesispc.in/category/keyboard/ "https://www.genesispc.in/category/keyboard/") Has a list of good prebuilt keebs 
  - [https://stackskb.com/product-category/keyboards/](https://stackskb.com/product-category/keyboards/ "https://stackskb.com/product-category/keyboards/") StacksKb also has some great premium filco prebuilts 
  - TVS Gold Bharat Gold USB Keyboard (Black) : [https://www.amazon.in/dp/B08GXDMLNJ](https://www.amazon.in/dp/B08GXDMLNJ "https://www.amazon.in/dp/B08GXDMLNJ")
  - TVS Gold Prime (Kalih/Long Hua Red Switches) [https://www.amazon.in/dp/B08HVHH8LK](https://www.amazon.in/dp/B08HVHH8LK "https://www.amazon.in/dp/B08HVHH8LK")
