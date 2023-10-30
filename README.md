@@ -40,7 +40,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
 
 **For Cables**
 
- - [https://www.kablemakers.com/usb-cables](https://www.kablemakers.com/usb-cables "https://www.kablemakers.com/usb-cables")  
+ - [https://www.kablemakers.com/collections/detachable-coil-usb-catalog](https://www.kablemakers.com/collections/detachable-coil-usb-catalog "https://www.kablemakers.com/collections/detachable-coil-usb-catalog")  
  - [https://instagram.com/kushcables](https://instagram.com/kushcables "https://instagram.com/kushcables")
  - [https://cablesutra.shop/](https://cablesutra.shop/ "https://cablesutra.shop/")
 
