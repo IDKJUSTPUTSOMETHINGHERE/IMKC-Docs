@@ -37,6 +37,7 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/") 
  - [https://neomacro.in/](https://neomacro.in/ "https://neomacro.in/")
  - [https://artwaal.com/](https://artwaal.com/ "https://artwaal.com/")
+ - [https://curiositycaps.in/](https://curiositycaps.in/ "https://curiositycaps.in")
 
 **For Cables**
 
