@@ -33,7 +33,6 @@ Got suggestions/updates for this sheet, add them [HERE](https://forms.gle/qAR3ny
  - [https://www.amazon.in/](https://www.amazon.in/ "https://www.amazon.in/")
  - [https://www.rigvedapc.com/](https://www.rigvedapc.com/ "https://www.rigvedapc.com/") 
  - [https://stackskb.com/](https://stackskb.com/ "https://stackskb.com/")
- - [https://hardwarecorpus.in/](https://hardwarecorpus.in/ "https://hardwarecorpus.in/") 
  - [https://stickeys.in/](https://stickeys.in/ "https://stickeys.in/") 
  - [https://neomacro.in/](https://neomacro.in/ "https://neomacro.in/")
  - [https://acekbd.com/ ](https://acekbd.com/ "https://acekbd.com/")
